@@ -6,6 +6,9 @@
 
 Here are some ideas to get you started:
 
-- 🌱 I’m currently learning Node.js Next.js
+- 🔭 I’m currently working on fullstack development projects
+- 🌱 I’m currently learning Node.js Next.js...
+- 💻 I'm Interested in Artificial Intelligence Projects
 - 😄 Pronouns: FREEDOM
-...
+- 📫 How to reach me: shanezeng77@gmail.com
+- ...
