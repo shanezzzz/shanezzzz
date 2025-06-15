@@ -12,3 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: FREEDOM
 - 📫 How to reach me: shanezeng77@gmail.com
 - ...
+
+If you can't explain it simply, you don't understand it well enough.
+- Albert Einstein
